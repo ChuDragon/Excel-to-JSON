@@ -10,7 +10,7 @@ This tool supports 1- or 2-level objects. An example of 2-level is `{"EmployeeRe
 However, in this version the second-level object can contain only 2 key-values (e.g., "ID" and "Name"). 
 It outputs .JSON file to: `[your home dir]\JSON output\timesheets.json`, where [your home dir] is typically your \Documents folder.
 
-## Instrucitons
+## Instructions
 The .xlsx workbook contains all the needed VBA code. Follow the instructions in the workbook to format your data, then just click the button to run. 
 You can modify the VBA macro to fit your needs. 
 The app is also saved separately as .bas file. For custom modifications, contact me at the email in my profile.
