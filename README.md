@@ -17,5 +17,5 @@ The app is also saved separately as .bas file. For custom modifications, contact
 
 ## Setup/Dependencies
 I use the VBA-JSON JsonConverter, source: https://github.com/VBA-tools/VBA-JSON, as a function module.
-If you're using my .bas code separately (not the complete Excel worksheet), then you'll need to install the JsonConverter module as well - follow the link above for instrucitons.
+If you're using my .bas code separately (not the complete Excel worksheet), then you'll need to install the JsonConverter module as well - follow the link above for instructions.
 Also, you'll need to turn on the Microsoft Scripting Runtime library. 
